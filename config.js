@@ -1,2 +1,2 @@
 console.log('config.js');
-console.assertlog('version1');
+console.assertlog('version2');
