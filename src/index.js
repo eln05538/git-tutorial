@@ -1,2 +1,2 @@
 console.log('index.js');
-console.assertlog('version11');
+console.assertlog('version13');
